@@ -1,0 +1,8 @@
+<resources>
+    <string name="application_name">AOSPContributors</string>
+    <string name="contributors_toolbar_title">Contributors</string>
+    <string name="commits_count">%1$d commits</string>
+    <string name="error_during_data_downloading">Sorry, an error occurred during data downloading</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiaXVyYmFuc2t5aSIsImEiOiJjanR4OTB2NmQyOTMzNDRsbGR4eDV2NjR6In0.gzolrsyV72JQSeFeRKOWKw</string>
+    <string name="error_location_retreiving">Failed to retrieve location</string>
+</resources>
